@@ -1,6 +1,6 @@
 ### Team Members
 
-* Name:Wang Zhenguo  
+* Name:Wang Zhenguo(**Team leader**)
   Udacity Account Email: zhenguo.wang@daimler.com
 
 * Name:Liu Chuanhao     
